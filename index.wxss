@@ -1,0 +1,29 @@
+/* pages/index/index.wxss */
+.welcome-card {
+  text-align: center;
+  padding: 80rpx 40rpx;
+  margin-top: 100rpx;
+}
+
+.welcome-title {
+  font-size: 48rpx;
+  font-weight: bold;
+  color: #07c160;
+  margin-bottom: 20rpx;
+}
+
+.welcome-desc {
+  font-size: 28rpx;
+  color: #666;
+  margin-bottom: 60rpx;
+}
+
+.bind-section {
+  margin-top: 40rpx;
+}
+
+.bind-tip {
+  font-size: 28rpx;
+  color: #999;
+  margin-bottom: 30rpx;
+}
